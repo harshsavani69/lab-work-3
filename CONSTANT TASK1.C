@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+    clrscr();
+    float pi=3.14,r=8,area;
+    area=pi*r*r;
+    printf("area of circle = %.2f",area);
+    getch();
+
+
+
+
+
+}

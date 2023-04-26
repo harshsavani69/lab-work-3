@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+  clrscr();
+  float h =50,b=55,area;
+  area=h/2*b*b;
+  printf("area of triangle =%55f",area);
+  getch();
+
+}
